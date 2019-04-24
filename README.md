@@ -1,0 +1,2 @@
+# WuZiQi
+For C practice
